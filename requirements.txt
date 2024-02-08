@@ -2,7 +2,6 @@ pyrogram
 pytz
 pytgcalls==3.0.0.dev24
 yt-dlp
-py-tgcalls==0.9.2
 youtube-search-python
 motor
 dnspython
