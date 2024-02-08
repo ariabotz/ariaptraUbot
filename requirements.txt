@@ -1,7 +1,7 @@
 pyrogram
 TgCrypto
 pytz
-pytgcalls==3.0.0.dev24
+git+https://github.com/pytgcalls/pytgcalls
 yt-dlp
 youtube-search-python
 motor
