@@ -1,7 +1,6 @@
 pyrogram
 pytz
 pytgcalls
-py-tgcalls==0.9.2
 yt-dlp
 youtube-search-python
 motor
