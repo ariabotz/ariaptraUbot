@@ -1,4 +1,4 @@
-git+https://github.com/naya1503/pyrogram
+pyrogram==2.0.106
 TgCrypto
 pytz
 pytgcalls==3.0.0.dev24
