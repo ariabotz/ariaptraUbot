@@ -1,6 +1,6 @@
 pyrogram
 pytz
-pytgcalls==3.0.0.dev24
+pytgcalls
 yt-dlp
 youtube-search-python
 motor
